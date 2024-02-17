@@ -112,3 +112,9 @@ body {
     align-items: center;
     border-radius: 0px;
  }
+ @media screen and (max-width : 320px) {
+    .card-white {
+        width: 160px;
+        left: 115px;
+    }
+ }
